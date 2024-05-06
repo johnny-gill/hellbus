@@ -1,0 +1,13 @@
+package com.example.hellbus;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class HellbusApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
